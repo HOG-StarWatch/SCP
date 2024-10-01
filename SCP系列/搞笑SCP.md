@@ -1,0 +1,436 @@
+这里是所有“主站搞笑SCP项目”的索引。如果你有兴趣写一篇搞笑SCP，请记住以下几点：
+
+- **搞笑SCP一定要有趣。** 网站成员会给那些他们觉得不有趣的笑话差评。
+- **直接参照流行文化以及电子游戏是没用的。** 就像那些有提及神话或民间传说的主系列SCP一样，除非你使用基金会风格进行重写和扩写，不然这行不通。新世纪福音战士跟传送枪也不行。
+- **搞笑SCP主页不是用来存放那些没法进入主系列想法的地方。** 搞笑SCP通常被认为比主系列更难写，而且是新人写手三大难关的其中之一（另外两个是人形生物和Keter级项目）
+- **请不要随便写并丢在这里。** 就是不要。如果你想写一篇搞笑SCP，再多想想。
+
+- [代号：Cimmerian/kaktus的提案](https://scp-wiki-cn.wikidot.com/cimmerian-kaktus-proposal) - “破产之神”
+- [代号：Daveyoufool的提案：](https://scp-wiki-cn.wikidot.com/daveyoufool-proposal) - “保持冷静，继续亚坡利·恩”
+- [代号：Palanez博士的提案](https://scp-wiki-cn.wikidot.com/weryllium-proposal) - “执子之手”
+- [代号：Djkaktus的另一个提案](https://scp-wiki-cn.wikidot.com/djkaktus-s-proposal-j) - “它的肚子咕咕叫”
+- [代号：Henzoid-Crocket的提案](https://scp-wiki-cn.wikidot.com/henzoid-crocket-s-proposal-j) - “当Day分手时”
+- [代号：Fishish的提案](https://scp-wiki-cn.wikidot.com/fishish-s-proposal-j) - “忠言逆耳 </3”
+- [代号：Plauge的提案](https://scp-wiki-cn.wikidot.com/plauge-proposal) - 伟大海豹
+- [代号：Bold主管的提案-J](https://scp-wiki-cn.wikidot.com/director-bold-s-proposal-j) - "各位请不要来看我们的SCP🥺"
+- [代号：Abraka David 的提案](https://scp-wiki-cn.wikidot.com/abraka-davids-proposal) - 幕布后的一瞥
+- [代号：MisterFrown的提案-J](https://scp-wiki-cn.wikidot.com/misterfrown-s-proposal-j) - 还得是你
+- [代号：深井提案](https://scp-wiki-cn.wikidot.com/deepwell-proposal) - Site-17 深井
+- [代号：ROUNDERHOUSE的更金提案](https://scp-wiki-cn.wikidot.com/rounderhouse-golder-proposal) - 导演剪辑版
+- [代号：每个人的提案](https://scp-wiki-cn.wikidot.com/everyone-s-proposal) - 自己动手，疯医卒逝
+- [SCP-(-1)-J](https://scp-wiki-cn.wikidot.com/scp-minus-1-j) - “隐形喷雾漆，问题一扫清！”
+- [SCP-000-J](https://scp-wiki-cn.wikidot.com/scp-000-j) - “官方SCP售货目录”
+- [SCP-001-J](https://scp-wiki-cn.wikidot.com/scp-001-j) - 红色大按钮
+- [SCP-001½-J](https://scp-wiki-cn.wikidot.com/scp-001-and-a-half-j) - 蓝色大按钮
+- [SCP-001-EX-J](https://scp-wiki-cn.wikidot.com/scp-001-ex-j) - CKG集会记录
+- [SCP-001-D-J](https://scp-wiki-cn.wikidot.com/scp-001-d-j) - The Way It Begins
+- [SCP-0001-J](https://scp-wiki-cn.wikidot.com/scp-0001-j) - World's Best Boss
+- [SCP-002-J](https://scp-wiki-cn.wikidot.com/scp-002-j) - 失憶處理法
+- [SCP-0002-J](https://scp-wiki-cn.wikidot.com/scp-0002-j) - 厕所幽默
+- [scp-3-j](https://scp-wiki-cn.wikidot.com/scp-3-j) - 带孩子来工作日！
+- [SCP-:3-J](https://scp-wiki-cn.wikidot.com/scp-003-j) - 模因型语言构造
+- [SCP-004-J](https://scp-wiki-cn.wikidot.com/scp-004-j) - 會計部門的Stan
+- [SCP-005-J](https://scp-wiki-cn.wikidot.com/scp-005-j) - **别让O5议会看见这个**
+- [SCP-005-J-EX](https://scp-wiki-cn.wikidot.com/scp-005-j-ex) - 「不，因為*她*認為他是在說……」
+- [SCP-006-J](https://scp-wiki-cn.wikidot.com/scp-006-j) - **那他妈是什么东西**
+- [SCP-6k-J](https://scp-wiki-cn.wikidot.com/scp-6k-j) - 童言无忌
+- [SCP-007-J](https://scp-wiki-cn.wikidot.com/scp-007-j) - 未確認鬆餅生物
+- [SCP-7K-J](https://scp-wiki-cn.wikidot.com/scp-7k-j) - 好评/差评硬币
+- [SCP-008-J](https://scp-wiki-cn.wikidot.com/scp-008-j) - 乱入哥Geoff
+- [SCP-8==D-J](https://scp-wiki-cn.wikidot.com/scp-pingas-j) - 以我丰碑之屌进行怪物收容
+- [SCP-009-J](https://scp-wiki-cn.wikidot.com/scp-009-j) - 在哪裡？
+- [SCP-010-J](https://scp-wiki-cn.wikidot.com/scp-010-j) - **啥Keter我没看到任何Keter**
+- [SCP-011-J](https://scp-wiki-cn.wikidot.com/scp-011-j) - 嬰兒
+- [SCP-012-J](https://scp-wiki-cn.wikidot.com/scp-012-j) - 特殊喜剧措施
+- [SCP-013-J](https://scp-wiki-cn.wikidot.com/scp-013-j) - 终极智慧之墨鱼
+- [SCP-014-J](https://scp-wiki-cn.wikidot.com/scp-014-j) - 一把叉子
+- [SCP-015-J](https://scp-wiki-cn.wikidot.com/scp-015-j) - 真的就只是个误会
+- [SCP-016-J](https://scp-wiki-cn.wikidot.com/scp-016-j) - 你口袋里那是颗导弹吗？
+- [SCP-017-J](https://scp-wiki-cn.wikidot.com/scp-017-j) - 自恋性时间错位场
+- [SCP-018-J](https://scp-wiki-cn.wikidot.com/scp-018-j) - 穿着风衣的成年人
+- [SCP-019-J](https://scp-wiki-cn.wikidot.com/scp-019-j) - 大概是深红之王
+- [SCP-020-J](https://scp-wiki-cn.wikidot.com/scp-020-j) - 相形见绌
+- [SCP-021-J](https://scp-wiki-cn.wikidot.com/scp-021-j) - 邪恶 :(
+- [SCP-022-J](https://scp-wiki-cn.wikidot.com/scp-022-j) - 模因金属
+- [SCP-025-J](https://scp-wiki-cn.wikidot.com/scp-025-j) - SCP基金会之水
+- [SCP-026-J](https://scp-wiki-cn.wikidot.com/scp-026-j) - 很冷的桿子
+- [SCP-027-J](https://scp-wiki-cn.wikidot.com/scp-027-j) - 薛定谔的遥控器
+- [SCP-028-J](https://scp-wiki-cn.wikidot.com/scp-028-j) - 这什么鬼设置？！
+- [SCP-029-J](https://scp-wiki-cn.wikidot.com/scp-029-j) - 耶稣握住方向盘！
+- [SCP-030-J](https://scp-wiki-cn.wikidot.com/scp-030-j) - Jim Henson真他妈不是个东西
+- [SCP-031-J](https://scp-wiki-cn.wikidot.com/scp-031-j) - 恐怖之夜
+- [SCP-042-J](https://scp-wiki-cn.wikidot.com/scp-042-j) - 数以亿计的怪枕头
+- [SCP-044-J](https://scp-wiki-cn.wikidot.com/scp-044-j) - SCP-J(argon)
+- [SCP-048-J](https://scp-wiki-cn.wikidot.com/scp-048-j) - 负概率短语
+- [SCP-049-J](https://scp-wiki-cn.wikidot.com/scp-049-j) - 瘟疫二逼
+- [SCP-50-AE-J](https://scp-wiki-cn.wikidot.com/scp-50-ae-j) - 自由民主的沙漠之鹰
+- [SCP-055-J](https://scp-wiki-cn.wikidot.com/scp-055-j) - 谁知道呢？
+- [SCP-063-J](https://scp-wiki-cn.wikidot.com/scp-063-j) - 非歐幾里得幾何
+- [SCP-065-J](https://scp-wiki-cn.wikidot.com/scp-065-j) - 唱歌的仙人掌朋友
+- [SCP-069-J](https://scp-wiki-cn.wikidot.com/scp-069-j) - “Cheyenne Point的妹子們”
+- [SCP-076-J](https://scp-wiki-cn.wikidot.com/scp-076-j) - 以我看来
+- [SCP-078-J](https://scp-wiki-cn.wikidot.com/scp-078-j) - 蝨子
+- [SCP-80s-J](https://scp-wiki-cn.wikidot.com/scp-80s-j) - 更怪奇物语
+- [SCP-80-K-J](https://scp-wiki-cn.wikidot.com/scp-80-k-j) - 鸡军
+- [SCP-093-J](https://scp-wiki-cn.wikidot.com/scp-093-j) - Failed Embezzlement Scheme
+- [SCP-095-J](https://scp-wiki-cn.wikidot.com/scp-095-j) - 異常字體
+- [SCP-096-J](https://scp-wiki-cn.wikidot.com/scp-096-j) - NarrAway
+- [SCP-100-J](https://scp-wiki-cn.wikidot.com/scp-100-j) - 一大坨冒气的屎
+- [SCP-103-J](https://scp-wiki-cn.wikidot.com/scp-103-j) - 已确认
+- [SCP-106-J](https://scp-wiki-cn.wikidot.com/scp-106-j) - BBQ人
+- [SCP-0110-J](https://scp-wiki-cn.wikidot.com/scp-0110-j) - 人员退休，立即生效
+- [SCP-111-J](https://scp-wiki-cn.wikidot.com/scp-111-j) - 無辜的郊區家庭
+- [SCP-118-J](https://scp-wiki-cn.wikidot.com/scp-118-j) - 世界上含盐量最高的博士
+- [SCP-123-J](https://scp-wiki-cn.wikidot.com/scp-123-j) - 奇妙的类黄油物质！
+- [SPC-126-J](https://scp-wiki-cn.wikidot.com/spc-126-j) - 并非因公鲨人
+- [SCP-143-J](https://scp-wiki-cn.wikidot.com/scp-how-do-people-pick-j-numbers-anyway-j) - 在这里插入奇特的名称
+- [SCP-145-J](https://scp-wiki-cn.wikidot.com/scp-145-j) - 又一个该死的工作日
+- [SCP-164-J](https://scp-wiki-cn.wikidot.com/scp-164-j) - 耳魔法
+- [SPC-169-J](https://scp-wiki-cn.wikidot.com/spc-169-j) - 那个大家伙
+- [SPC-172-J](https://scp-wiki-cn.wikidot.com/spc-172-j) - 别拿拳头打矛战
+- [SCP-173-J](https://scp-wiki-cn.wikidot.com/scp-173-j) - 173的起源
+- [SPC-173-J](https://scp-wiki-cn.wikidot.com/spc-173-j) - 一座假日鲨鱼雕像粗暴地执行度假时间
+- [SCP-184-J](https://scp-wiki-cn.wikidot.com/scp-184-j) - 详细松鼠
+- [SCP-1D6-J](https://scp-wiki-cn.wikidot.com/scp-1d6-j) - Gygax的愚蠢
+- [SCP-200-J](https://scp-wiki-cn.wikidot.com/scp-200-j) - 冰箱的逻辑
+- [SCP-209-J](https://scp-wiki-cn.wikidot.com/scp-209-j) - The Hard-To-Destroy Insect
+- [SCP-222-J](https://scp-wiki-cn.wikidot.com/scp-222-j) - 传染性生物物理行为
+- [SCP-231-J](https://scp-wiki-cn.wikidot.com/scp-231-j) - 0.453592千克血肉/基金会还我血汗钱
+- [SCP-248-J](https://scp-wiki-cn.wikidot.com/scp-248-j) - 弄張圖片
+- [SCP-273-J](https://scp-wiki-cn.wikidot.com/scp-273-j) - ‘冰冻’
+- [SCP-294-J](https://scp-wiki-cn.wikidot.com/scp-294-j) - 新沏的创世纪
+- [SCP-300-J](https://scp-wiki-cn.wikidot.com/scp-300-j) - 我们伟大的尺子统治者
+- [SCP-309-J](https://scp-wiki-cn.wikidot.com/scp-309-j) - 告诉你不要做什么的最好例子
+- [SCP-314-J](https://scp-wiki-cn.wikidot.com/scp-314-j) - 计算证明（你很差劲）
+- [SCP-329-J](https://scp-wiki-cn.wikidot.com/scp-329-j) - 幽欧欧欧灵标凹凹凹志
+- [SCP-333-J](https://scp-wiki-cn.wikidot.com/scp-333-j) - Skippy's Corner Pub
+- [SCP-334-J](https://scp-wiki-cn.wikidot.com/scp-334-j) - 迷失袜之屋
+- [SCP-343-J](https://scp-wiki-cn.wikidot.com/scp-343-j) - 罗素的汤罐头
+- [SCP-346-J](https://scp-wiki-cn.wikidot.com/scp-346-j) -
+- [SCP-371-J](https://scp-wiki-cn.wikidot.com/scp-371-j) - 小花生真好笑 xd 🥜😂
+- [SCP-404-J](https://scp-wiki-cn.wikidot.com/scp-404-j) - 万神殿
+- [SCP-419-J](https://scp-wiki-cn.wikidot.com/scp-419-j) - 值得信賴的人
+- [SCP-420-J](https://scp-wiki-cn.wikidot.com/scp-420-j) - 绝世好█
+- [SCP-444-J](https://scp-wiki-cn.wikidot.com/scp-444-j) - 六天长果脯公约
+- [SCP-477-J](https://scp-wiki-cn.wikidot.com/scp-477-j) - 这该放到主系列
+- [SCP-496-J](https://scp-wiki-cn.wikidot.com/scp-496-j) - Margaret Sawyer-Sheen博士
+- [SCP-500-J](https://scp-wiki-cn.wikidot.com/scp-500-j) - 笑料
+- [SCP-536-J](https://scp-wiki-cn.wikidot.com/scp-536-j) - 就在你的後腦勺
+- [SCP-543-J](https://scp-wiki-cn.wikidot.com/scp-543-j) - 唧唧甲虫
+- [SCP-555-J](https://scp-wiki-cn.wikidot.com/scp-555-j) - Squid Mop
+- [SCP-579-J](https://scp-wiki-cn.wikidot.com/scp-579-j) - 微交易
+- [SCP-615-J](https://scp-wiki-cn.wikidot.com/scp-615-j) - **Diplomatic Immunity**
+- [SCP-616-J](https://scp-wiki-cn.wikidot.com/scp-616-j) - D级人员招募程序
+- [SCP-619-J](https://scp-wiki-cn.wikidot.com/scp-619-j) - 冠军腰带
+- [SCP-630-J](https://scp-wiki-cn.wikidot.com/scp-630-j) - 一曲心中的歌谣
+- [SCP-661-J](https://scp-wiki-cn.wikidot.com/scp-661-j) - 犹豫至死
+- [SCP-666-J](https://scp-wiki-cn.wikidot.com/scp-666-j) - Gerald博士的驾驶技术
+- [SCP-666½-J](https://scp-wiki-cn.wikidot.com/scp-666-and-a-half-j) - 地狱烈焰
+- [SCP-682-J](https://scp-wiki-cn.wikidot.com/scp-682-j) - 史上最棒的蜥蜴
+- [SCP-700-J](https://scp-wiki-cn.wikidot.com/scp-700-j) - 幸运曲奇真没用
+- [SCP-719M4-J](https://scp-wiki-cn.wikidot.com/scp-719m4-j) - **里玛病**
+- [SCP-721-J](https://scp-wiki-cn.wikidot.com/scp-721-j)- 一张愚蠢的狗的照片
+- [SCP-723-J](https://scp-wiki-cn.wikidot.com/scp-723-j) - 伤心的蟑螂
+- [SCP-724-J](https://scp-wiki-cn.wikidot.com/scp-724-j) - 坏蟑螂
+- [SCP-727-J](https://scp-wiki-cn.wikidot.com/scp-727-j) - 恶意天体
+- [SCP-729-J](https://scp-wiki-cn.wikidot.com/scp-729-j) - Peep Peep，混账东西
+- [SCP-732-J](https://scp-wiki-cn.wikidot.com/scp-732-j) - 小陶瓷海马
+- [SCP-733-J](https://scp-wiki-cn.wikidot.com/scp-733-j) - 堕落系统
+- [SCP-777-J](https://scp-wiki-cn.wikidot.com/scp-777-j) - 暗之刀锋
+- [SCP-789-J](https://scp-wiki-cn.wikidot.com/scp-789-j) - 屁股鬼魂！！
+- [SCP-800-J](https://scp-wiki-cn.wikidot.com/scp-800-j) - 美式橄榄球
+- [SCP-808-J](https://scp-wiki-cn.wikidot.com/scp-808-j) - Blue船长的岛上的失落宝藏
+- [SCP-810-J](https://scp-wiki-cn.wikidot.com/scp-810-j) - 一条需要钱的狗
+- [SCP-885-J](https://scp-wiki-cn.wikidot.com/scp-885-j) - 研究员Jacobs的洗盘子不能症
+- [SCP-900-J](https://scp-wiki-cn.wikidot.com/scp-900-j) - 现代化Keter
+- [SCP-930-J](https://scp-wiki-cn.wikidot.com/scp-930-j) - 你个小流氓！
+- [SCP-938-J](https://scp-wiki-cn.wikidot.com/scp-938-j) - `**地狱之铃**`
+- [SCP-939-J](https://scp-wiki-cn.wikidot.com/scp-939-j) - Crime Time Canine
+- [SCP-990-J](https://scp-wiki-cn.wikidot.com/scp-990-j) - 梦里那老兄
+- [SCP-999-J](https://scp-wiki-cn.wikidot.com/scp-999-j) - 瘆人的“Speedo”男
+- [SCP-1000-J](https://scp-wiki-cn.wikidot.com/scp-1000-j) - 老妇镇
+- [SCP-1013-J](https://scp-wiki-cn.wikidot.com/scp-1013-j) - 树鼠
+- [SCP-1020-J](https://scp-wiki-cn.wikidot.com/scp-1020-j) - 恐怖冰箱
+- [SCP-1026-J](https://scp-wiki-cn.wikidot.com/scp-1026-j) - 有些人先生
+- [SCP-1047-J](https://scp-wiki-cn.wikidot.com/scp-1047-j) - "钓鱼用"
+- [SCP-1049-J](https://scp-wiki-cn.wikidot.com/scp-1049-j) - 残酷之桶
+- [SPC-1057-J](https://scp-wiki-cn.wikidot.com/spc-1057-j) - 此地无可殴打的鲨
+- [SCP-1089-J](https://scp-wiki-cn.wikidot.com/scp-1089-j) - 地毯又把它给吃了
+- [SCP-1111-J](https://scp-wiki-cn.wikidot.com/scp-1111-j) - 一部工作的电脑
+- [SCP-1131-J](https://scp-wiki-cn.wikidot.com/scp-1131-j) - *那很管用，伙计！相信我！*
+- [SCP-1132-J](https://scp-wiki-cn.wikidot.com/scp-1132-j) - 頭炮
+- [SCP-1134-J](https://scp-wiki-cn.wikidot.com/scp-1134-j) - 胶带纸
+- [SCP-1150-J](https://scp-wiki-cn.wikidot.com/scp-1150-j) - 财务漏洞
+- [SCP-1162-J](https://scp-wiki-cn.wikidot.com/scp-1162-j) - 肯德基豪華午餐
+- [SCP-1201-J](https://scp-wiki-cn.wikidot.com/scp-1201-j) - 就是那部電影
+- [SCP-1212-J](https://scp-wiki-cn.wikidot.com/scp-1212-j) - 標準
+- [SCP-1224-J](https://scp-wiki-cn.wikidot.com/scp-1224-j) - Duck級人員
+- [SCP-1234-J](https://scp-wiki-cn.wikidot.com/scp-1234-j) - 一个SCP
+- [SCP-1256-J](https://scp-wiki-cn.wikidot.com/scp-1256-j) - 蜜蜂比你想的更他妈傻逼
+- [SCP-1294-J](https://scp-wiki-cn.wikidot.com/scp-1294-j) - 洒水壶
+- [SCP-12954-J](https://scp-wiki-cn.wikidot.com/scp-12954-j) - Damn, That's Deep
+- [SCP-1322-J](https://scp-wiki-cn.wikidot.com/scp-1322-j) - 一個全新的世界
+- [SCP-1333-J!](https://scp-wiki-cn.wikidot.com/scp-1333-j) - **尖叫的人**
+- [SCP-1344-J](https://scp-wiki-cn.wikidot.com/scp-1344-j) - 玻璃怪
+- [SCP-1394-J](https://scp-wiki-cn.wikidot.com/scp-1394-j) - 颠倒接头
+- [SCP-1417-J](https://scp-wiki-cn.wikidot.com/scp-1417-j) - 科学的陨石
+- [SCP-1459-J](https://scp-wiki-cn.wikidot.com/scp-1459-j) - X-海绵
+- [SCP-1471-J](https://scp-wiki-cn.wikidot.com/scp-1471-j) - 感性的收容措施
+- [SCP-1472-J](https://scp-wiki-cn.wikidot.com/scp-1472-j) - Scranton Realty Anchors
+- [SCP-1543-J](https://scp-wiki-cn.wikidot.com/scp-1543-j) - 太陽發射器
+- [SCP-1550-J](https://scp-wiki-cn.wikidot.com/scp-1550-j) - 教授的轮椅
+- [SCP-1557-J](https://scp-wiki-cn.wikidot.com/scp-1557-j) - 写作方块
+- [SCP-1595-J](https://scp-wiki-cn.wikidot.com/scp-1595-j) - 爱侣
+- [SCP-1622-J](https://scp-wiki-cn.wikidot.com/scp-1622-j) - 没有项目等级，不管怎样
+- [SCP-1638-J](https://scp-wiki-cn.wikidot.com/scp-1638-j) - 一块黑暗而神秘的印刷板
+- [SCP-1797-J](https://scp-wiki-cn.wikidot.com/scp-1797-j) - “乔治·华盛顿在挖鼻孔时款待着一位绅士朋友”
+- [SCP-1-800-J](https://scp-wiki-cn.wikidot.com/scp-1-800-j) - 供应有限
+- [SCP-1830-J](https://scp-wiki-cn.wikidot.com/scp-1830-j) - 开场白
+- [SCP-1840-J](https://scp-wiki-cn.wikidot.com/scp-1840-j) - 强硬推销
+- [SCP-1851-J](https://scp-wiki-cn.wikidot.com/scp-1851-j) - 菲伯湖
+- [SCP-1861-J](https://scp-wiki-cn.wikidot.com/scp-1861-j) - 基金会战歌
+- [SCP-1912-J](https://scp-wiki-cn.wikidot.com/scp-1912-j) - [已编辑]之地
+- [SCP-1914-J](https://scp-wiki-cn.wikidot.com/scp-1914-j) - 静音钢琴
+- [SCP-1921-J](https://scp-wiki-cn.wikidot.com/scp-1921-j) - Riemann的路由器
+- [SCP-1922-J](https://scp-wiki-cn.wikidot.com/scp-1922-j) - 美帝走狗的废物主义
+- [SCP-1938-J](https://scp-wiki-cn.wikidot.com/scp-1938-j) - 傷寒瑪莉
+- [SCP-1939-J](https://scp-wiki-cn.wikidot.com/scp-1939-j) - 修我他妈的天花板
+- [SCP-1948-J](https://scp-wiki-cn.wikidot.com/scp-1948-j) - 同志
+- [SCP-1950-J](https://scp-wiki-cn.wikidot.com/scp-1950-j) - Locked away in the tallest Containment Cell
+- [SCP-1955-J](https://scp-wiki-cn.wikidot.com/scp-1955-j) - Musical Audio Surveillance Distortion
+- [SCP-1960-J](https://scp-wiki-cn.wikidot.com/scp-1960-j) - 石球
+- [SCP-1969-J](https://scp-wiki-cn.wikidot.com/scp-1969-j) - THE FREEDOM FOUNDATION OF THE UNITED STATES
+- [SCP-1970-J](https://scp-wiki-cn.wikidot.com/scp-1970-j) - Le Fonduetion
+- [SCP-1981-J](https://scp-wiki-cn.wikidot.com/scp-1981-j) - 只是个小镇姑娘
+- [SCP-1984-J](https://scp-wiki-cn.wikidot.com/scp-1984-j) - 就是字面上的1984
+- [SCP-1986-J](https://scp-wiki-cn.wikidot.com/scp-1986-j) - Beat The Mets
+- [SCP-1987-J](https://scp-wiki-cn.wikidot.com/scp-1987-j) - Bitchin' Solo
+- [SCP-1992-J](https://scp-wiki-cn.wikidot.com/scp-1992-j) - 炒作列车
+- [SCP-1994-J](https://scp-wiki-cn.wikidot.com/scp-1994-j) - **那个球球球球**
+- [SCP-1997-J](https://scp-wiki-cn.wikidot.com/scp-1997-j) - Pro-Pain
+- [SCP-2000-J](https://scp-wiki-cn.wikidot.com/scp-2000-j) - 猫人大灌篮2000：猫人回归
+- [SCP-2001-J](https://scp-wiki-cn.wikidot.com/scp-butt-j) - 激光臀部病
+- [SCP-2002-J](https://scp-wiki-cn.wikidot.com/scp-2002-j) - “-J”代表乱穿马路者Jaywalker
+- [SCP-2006-J](https://scp-wiki-cn.wikidot.com/scp-2006-j) - 变身可怖恶物
+- [SCP-2008-J](https://scp-wiki-cn.wikidot.com/scp-2008-j) - 运动场绿毛怪
+- [SCP-2019-J](https://scp-wiki-cn.wikidot.com/scp-2019-j) - 一只毛茸茸的狗
+- [SCP-2029-J](https://scp-wiki-cn.wikidot.com/scp-2029-j) - 人工不智能
+- [DDD-2034](https://scp-wiki-cn.wikidot.com/ddd-2034) - 毁灭，毁灭，毁灭
+- [SCP-2041-J](https://scp-wiki-cn.wikidot.com/scp-2041-j) - Tankapult
+- [SCP-2100-J](https://scp-wiki-cn.wikidot.com/scp-2100-j) - 无情的费多拉
+- [SCP-2103-J](https://scp-wiki-cn.wikidot.com/scp-2103-j) - "Hatbot"
+- [SCP-2130-J](https://scp-wiki-cn.wikidot.com/scp-2130-j) - “但说真的，各位……”
+- [SCP-2212-J](https://scp-wiki-cn.wikidot.com/scp-2212-j) - 现在拨打电话，免费获得APOLLYON！
+- [SCP-2317-J](https://scp-wiki-cn.wikidot.com/scp-2317-j) - 异界丑角之门
+- [SCP-2383-J](https://scp-wiki-cn.wikidot.com/scp-2383-j) - 科学
+- [SCP-2412-J](https://scp-wiki-cn.wikidot.com/scp-2412-j) - 拉普兰人
+- [SCP-2421-J](https://scp-wiki-cn.wikidot.com/scp-2421-j) - 好评综合症
+- [SCP-2558-J](https://scp-wiki-cn.wikidot.com/scp-2558-j) - 河豚猫
+- [SCP-2559-J](https://scp-wiki-cn.wikidot.com/scp-2559-j) - 通往喵星的傳送門
+- [SCP-2600-J](https://scp-wiki-cn.wikidot.com/scp-2600-j) - 自行车黑手党
+- [SCP-2615-J](https://scp-wiki-cn.wikidot.com/scp-2615-j) - 拍拍手
+- [SCP-2618-J](https://scp-wiki-cn.wikidot.com/scp-2618-j) - 那谁是保姆?
+- [SCP-2718-J](https://scp-wiki-cn.wikidot.com/scp-2718-j) - 末日黄昏度假村的愉快周末
+- [SCP-2719-J](https://scp-wiki-cn.wikidot.com/scp-2719-j) - 一个内部的笑话
+- [SCP-2772-J](https://scp-wiki-cn.wikidot.com/scp-2772-j) - SUV商品推销
+- [SCP-2800-J](https://scp-wiki-cn.wikidot.com/scp-2800-j) - Corking the Beast in the Desert
+- [SCP-2845-J](https://scp-wiki-cn.wikidot.com/scp-2845-j) - Deer God.
+- [SPC-2935-J](https://scp-wiki-cn.wikidot.com/spc-2935-j) - O, Fin
+- [SCP-2950-J](https://scp-wiki-cn.wikidot.com/scp-2950-j) - **明信片**
+- [SCP-3000-J](https://scp-wiki-cn.wikidot.com/scp-3000-j) - 家乐氏®基金会脆片™！
+- [SCP-3001-J](https://scp-wiki-cn.wikidot.com/scp-3001-j) - 棕现实
+- [SPC-3008](https://scp-wiki-cn.wikidot.com/spc-3008) - 非常普通标准的老布罗艾
+- [SCP-3034-J](https://scp-wiki-cn.wikidot.com/scp-3034-j) - Voresnake
+- [SCP-3V1L-J](https://scp-wiki-cn.wikidot.com/scp-3v1l-j) - 大师级计划
+- [SPC-3284-J](https://scp-wiki-cn.wikidot.com/spc-3284-j) - 熔岩鲨鱼
+- [SCP-3333-J](https://scp-wiki-cn.wikidot.com/scp-3333-j) - 任性小吊兰
+- [SCP-3448-J](https://scp-wiki-cn.wikidot.com/scp-3448-j) - 本应该让他沉眠的
+- [SCP-3467-J](https://scp-wiki-cn.wikidot.com/scp-3467-j) - 六尺高的食雞人
+- [SCP-3472-J](https://scp-wiki-cn.wikidot.com/scp-3472-j) - 随时光流逝，你将致我以恨意。
+- [SCP-3560-J](https://scp-wiki-cn.wikidot.com/scp-3560-j) - 一位有品味的绅士
+- [SCP-3790-J](https://scp-wiki-cn.wikidot.com/scp-3790-j) - Pantopicon IV: The Search for Pantopticon III (sic)
+- [spc-3871-j](https://scp-wiki-cn.wikidot.com/spc-3871-j)
+- [SCP-3999-J](https://scp-wiki-cn.wikidot.com/scp-3999-j) - 塔罗兰的自我牺牲
+- [SCP-4000-J](https://scp-wiki-cn.wikidot.com/scp-4000-j) - 2boo
+- **[禁忌之地-J](https://scp-wiki-cn.wikidot.com/taboo-j)**
+- [SCP-4001-J](https://scp-wiki-cn.wikidot.com/scp-4001-j) - 从右至左阅读的人生
+- [SCP-4002-J](https://scp-wiki-cn.wikidot.com/scp-4002-j) - Curd of Prey
+- [SCP-4040-J](https://scp-wiki-cn.wikidot.com/scp-4040-j) -
+- [SCP-4055-J](https://scp-wiki-cn.wikidot.com/scp-4055-j) - 醜狗
+- [SCP-4128-J](https://scp-wiki-cn.wikidot.com/scp-4128-j) -
+- [SCP-4237-J](https://scp-wiki-cn.wikidot.com/scp-4237-j) - Object of Indescribable Action
+- [SCP-4263-J](https://scp-wiki-cn.wikidot.com/scp-4263-j) - 塑料眼球子
+- [SCP-4297-J](https://scp-wiki-cn.wikidot.com/scp-4297-j) - Normal Australian Wildlife
+- [SCP-4357-J](https://scp-wiki-cn.wikidot.com/scp-4357-j) - 合作的恶魔
+- [SCP-4389-J](https://scp-wiki-cn.wikidot.com/scp-4389-j) - 基金会会做这事吗？
+- [SCP-4444-J](https://scp-wiki-cn.wikidot.com/scp-4444-j) - 谣言运动：黄金产地行动
+- [SCP-4445-J](https://scp-wiki-cn.wikidot.com/scp-4445-j) - 谣言运动：三叉戟峡谷行动
+- [SCP-4463-J](https://scp-wiki-cn.wikidot.com/scp-4463-j) -
+- [SCP-4590-J](https://scp-wiki-cn.wikidot.com/scp-4590-j) - Japucha
+- [SCP-4618-J](https://scp-wiki-cn.wikidot.com/scp-4618-j) - Carpooling
+- [SCP-4619-J](https://scp-wiki-cn.wikidot.com/scp-4619-j) - Across the Foundationverse
+- [SCP-4666-J](https://scp-wiki-cn.wikidot.com/scp-4666-j) - The Happy Fun Christmas Man!
+- [SCP-47-47-J](https://scp-wiki-cn.wikidot.com/scp-47-47-j) - 神奇狗Rusty
+- [SCP-4800-J](https://scp-wiki-cn.wikidot.com/scp-4800-j) - 唯一真神
+- [SCP-5000-J](https://scp-wiki-cn.wikidot.com/scp-5000-j) - 饼干失窃之谜
+- [SCP-5001-J](https://scp-wiki-cn.wikidot.com/scp-5001-j) - 什么？
+- [SCP-5040-J](https://scp-wiki-cn.wikidot.com/scp-5040-j) - 條紋幫
+- [SCP-5150-J](https://scp-wiki-cn.wikidot.com/scp-5150-j) - 为孩子们着想！
+- [SCP-5200-J](https://scp-wiki-cn.wikidot.com/scp-why-are-you-reading-a-url-go-be-productive-j) - **就说不！！！！！！！！**
+- [SCP-5243-J](https://scp-wiki-cn.wikidot.com/scp-5243-j) - 不断矢量的矢量图
+- [SCP-5280-J](https://scp-wiki-cn.wikidot.com/scp-5280-j) - 陈旧的计量单位制
+- [SCP-5308-J](https://scp-wiki-cn.wikidot.com/scp-5308-j) - 收藏品
+- [SCP-5400-J](https://scp-wiki-cn.wikidot.com/scp-5400-j) - **本页为机密**
+- [SCP-5417-J](https://scp-wiki-cn.wikidot.com/scp-5417-j) - 致命盐罐
+- [SCP-5555-J](https://scp-wiki-cn.wikidot.com/scp-5555-j) - Q版生成器
+- [SCP-5846-J](https://scp-wiki-cn.wikidot.com/scp-5846-j) - 作者评注
+- [SCP-5972-J](https://scp-wiki-cn.wikidot.com/scp-5972-j) - 科比公司吸尘器
+- [SCP-6000-Q](https://scp-wiki-cn.wikidot.com/scp-6000-j) - 鲁迅创作的《阿Q正传》
+- [SCP-6009-J](https://scp-wiki-cn.wikidot.com/scp-6009-j) - HerbiVore!？我根本不认识她！
+- [SCP-6132-J](https://scp-wiki-cn.wikidot.com/scp-6132-j) - 探索地形
+- [SCP-6140-J](https://scp-wiki-cn.wikidot.com/scp-6140-j) - 带*帝国
+- [SCP-6269-J](https://scp-wiki-cn.wikidot.com/scp-6269-j) - 多元宇宙捕鱼机器
+- [SCP-6283-J](https://scp-wiki-cn.wikidot.com/scp-6283-j) - Standard Foundation Procedure
+- [SCP-6327-J](https://scp-wiki-cn.wikidot.com/scp-6327-j) - [简明扼要]
+- [SCP-6395-J](https://scp-wiki-cn.wikidot.com/scp-6395-j) - [untitled fish article]
+- [SCP-6969-J](https://scp-wiki-cn.wikidot.com/scp-6969-j) - 性爱终结6.9：你（不）能生殖
+- [SCP-6989-J](https://scp-wiki-cn.wikidot.com/scp-6989-j) - Old Man Yells At Clouds
+- [SCP-7000-J](https://scp-wiki-cn.wikidot.com/scp-7000-j) - 我來，我見，[數據刪除]
+- [SCP-7007-J](https://scp-wiki-cn.wikidot.com/scp-7007-j) - 仅供备胎！
+- [SCP-7143-J](https://scp-wiki-cn.wikidot.com/scp-7143-j) - 门把手
+- [SCP-7159-J](https://scp-wiki-cn.wikidot.com/scp-7159-j) - The Ballad of Zero Fucks Givin' Harvey
+- [SCP-7394-J](https://scp-wiki-cn.wikidot.com/scp-7394-j) - **超级搞笑放屁青蛙点击即看**
+- [SCP-7423-J](https://scp-wiki-cn.wikidot.com/scp-7423-j) - “你在告诉我……”
+- [SCP-7475-J](https://scp-wiki-cn.wikidot.com/scp-7475-j) - 涡轮碎鲨机6000
+- [SCP-7560-J](https://scp-wiki-cn.wikidot.com/scp-7560-j) - 堕落，最睿智研究员的著作
+- [SCP-7789-J](https://scp-wiki-cn.wikidot.com/scp-7789-j) - There are so many possible puns for this! Some are too phon-ny and others won't fly.
+- [SCP-7800-J](https://scp-wiki-cn.wikidot.com/scp-7800-j) - 五秒規則
+- [SCP-8000-J](https://scp-wiki-cn.wikidot.com/scp-8000-j) - 其实，它的念法是……
+- [SCP-8003-J](https://scp-wiki-cn.wikidot.com/scp-8003-j) - 何苦呢？
+- [SCP-80RK-J](https://scp-wiki-cn.wikidot.com/scp-80rk-j) - 不幸的是，是最好的修勾
+- [SCP-8111-J](https://scp-wiki-cn.wikidot.com/scp-8111-j) - 为什么我离开了基金会（与其他浪漫的技巧！）
+- [SCP-8231-J](https://scp-wiki-cn.wikidot.com/scp-8231-j) - 超级飞翔霸王龙
+- [SCP-8851-J](https://scp-wiki-cn.wikidot.com/scp-8851-j) - 特别便宜措施
+- [SCP-8988-J](https://scp-wiki-cn.wikidot.com/scp-8988-j) - Twitch写一篇SCP
+- [SCP-9000-J](https://scp-wiki-cn.wikidot.com/scp-9000-j) - ⠓⠊⠁⠶⠀⠝⠀⠙⠥⠂⠙⠢⠂⠀⠇⠢ ⠍⠦⠒⠂
+- [SCP-9000.01-J](https://scp-wiki-cn.wikidot.com/scp-9000-01-j) - SKIP SHIP
+- [SCP-9119-J](https://scp-wiki-cn.wikidot.com/scp-9119-j) - Horrid Little Gustav
+- [SCP-9999-J](https://scp-wiki-cn.wikidot.com/scp-9999-j) - 牛肉馅儿
+- [SCP-10101-J](https://scp-wiki-cn.wikidot.com/scp-10101-j) - 绝非YY
+- [SCP-15000-J](https://scp-wiki-cn.wikidot.com/scp-15000-j) - The Dupe Dective
+- [SCP-19316-J](https://scp-wiki-cn.wikidot.com/scp-19316-j) - 不适当用词
+- [SCP-99826-J](https://scp-wiki-cn.wikidot.com/scp-99826-j) - 心灵螺丝
+- [SCP-100000-J](https://scp-wiki-cn.wikidot.com/scp-100000-j) - 110-超杀程序
+- [SCP-41D3N73-J](https://scp-wiki-cn.wikidot.com/scp-41d3n73-j) - Lotsa Pasta
+- [SCP-649-2568-J](https://scp-wiki-cn.wikidot.com/scp-649-2568-j) - 亮眼地理学
+- [SCP-1347-1353-J](https://scp-wiki-cn.wikidot.com/scp-1347-1353-j) - 多么坑的鼠疫
+- [SCP-2128046979-J](https://scp-wiki-cn.wikidot.com/scp-2128046979-j) - 你又不认识她，她在别的站点工作！
+- [SCP-32-J](https://scp-wiki-cn.wikidot.com/scp-32-j) - 罪犯
+- [SCP-大蛋](https://scp-wiki-cn.wikidot.com/scp-big-egg-j) - 大蛋
+- [SCP-空白-J](https://scp-wiki-cn.wikidot.com/scp-blank-j) - 我诅咒你，逆模因！
+- [SCP-CASH4D-J](https://scp-wiki-cn.wikidot.com/scp-cash4d-j) - 制人人
+- [SCP-COOL-J](https://scp-wiki-cn.wikidot.com/scp-cool-j) - 一个酷哥
+- [SCP-damej-J](https://scp-wiki-cn.wikidot.com/scp-damej-j) - 机器人玩球
+- [SCP-鸭子-J](https://scp-wiki-cn.wikidot.com/scp-ducks-j) - Site-19大甩卖！！！
+- [SCP-DTBMH-J](https://scp-wiki-cn.wikidot.com/scp-dtbmh-j) - 我知道黑月为什么嚎叫了
+- [SCP-偶数-J](https://scp-wiki-cn.wikidot.com/scp-even-number-j) - 一个 [形容词]的[动物]
+- [SCP-HR009-J](https://scp-wiki-cn.wikidot.com/scp-hr009-j) - 吸睛标题党
+- [SCP-Jaguar-J](https://scp-wiki-cn.wikidot.com/scp-jaguar-j) - Junior Researcher Hutchins' Incredible Automobile
+- [SCP-K9-J-EX](https://scp-wiki-cn.wikidot.com/scp-k9-j-ex) - 鬼屋
+- [SCP-L135-J](https://scp-wiki-cn.wikidot.com/scp-l135-j) - 超强通灵师
+- [SCP-MEOW-J](https://scp-wiki-cn.wikidot.com/scp-meow-j) - Meow
+- [SCP-META-EX-J](https://scp-wiki-cn.wikidot.com/scp-meta-ex-j) - 请不要发冷帖
+- [SCP-MORE GUN-J](https://scp-wiki-cn.wikidot.com/scp-more-gun-j) - Guns Pointed At The Balls Of God
+- [SCP-MWT-J](https://scp-wiki-cn.wikidot.com/scp-mwt-j) - [SELF-PROPAGATING DANGER]
+- [SCP-谜团-J](https://scp-wiki-cn.wikidot.com/scp-mystery-j) - 迷惑占位页
+- [SCP-NUMBERONEDOGGO-J](https://scp-wiki-cn.wikidot.com/scp-numberonedoggo-j) - 好孩子中的好孩子
+- [SCP-O5-J](https://scp-wiki-cn.wikidot.com/scp-o5-j) - 对不起，我不明白这个命令。
+- [SCP-PU1P-J](https://scp-wiki-cn.wikidot.com/scp-pu1p-j) - 廉价杂志机
+- [SCP-画谜-J](https://scp-wiki-cn.wikidot.com/scp-this-was-a-bad-idea-j) - 这是一个坏主意
+- [SCP-ROCKS-J](https://scp-wiki-cn.wikidot.com/scp-rocks-j) 一堆需要闭上他娘的狗嘴的石头
+- [SCP-安全-J](https://scp-wiki-cn.wikidot.com/scp-safe-j) - 几个安全柜
+- [SCP-SCP-J](https://scp-wiki-cn.wikidot.com/scp-scp-j) - 是Scippy！
+- [SCP-SPC-J](https://scp-wiki-cn.wikidot.com/scp-spc-j) - “鲨鱼”“殴打”“中心”
+- [SCP-SPDR-J](https://scp-wiki-cn.wikidot.com/scp-spdr-j) - Arachnophobic Colleague
+- [SCP-SPOOKY-J](https://scp-wiki-cn.wikidot.com/scp-spooky-j) - 一名骨骼战争的老兵
+- [SCP-sqrt(-1)-J](https://scp-wiki-cn.wikidot.com/scp-sqrt-1-j) - SCP-−1−−−√-J
+- [SCP-鱿鱼-J](https://scp-wiki-cn.wikidot.com/scp-sqyd-j) - 鱿鱼游戏
+- [SCP-太长不看-J](https://scp-wiki-cn.wikidot.com/scp-tldr-j) - 简明易懂的文档
+- [SCP-TTKU-J](https://scp-wiki-cn.wikidot.com/scp-ttku-j) - 要杀了你的东西
+- [SCP-Vs-J](https://scp-wiki-cn.wikidot.com/scp-vs-j) - SCP-Vs-J打不打得过……
+- [SCP-V1L3-J](https://scp-wiki-cn.wikidot.com/scp-v1l3-j) - 恶俗小说机
+- [SCP-WCPGW-J](https://scp-wiki-cn.wikidot.com/scp-wcpgw-j) - 你想太多啦
+- [SCP-WOW-J](https://scp-wiki-cn.wikidot.com/scp-wow-j) - Dr. Fynegan and Agent Forelli's Bizarre Adventure
+- [SCP-WTF-J](https://scp-wiki-cn.wikidot.com/scp-wtf-j) - 最糟
+- [SCP-XXXX-J](https://scp-wiki-cn.wikidot.com/scp-xxxx-j) - 我想要*你*写SCP！
+- [SCP-____-J](https://scp-wiki-cn.wikidot.com/scp-j) - 拖延石
+- [SCP-????-J](https://scp-wiki-cn.wikidot.com/scp-in-a-box-j) - 盒子里的某种鬼东西
+- [SCP-@#%&!-J](https://scp-wiki-cn.wikidot.com/scp-cursing-j) - 你不曾注意到骂人成瘾的小鸟在狞笑！
+- [SCP-\̅\̅\̅\̅-J](https://scp-wiki-cn.wikidot.com/scp-botnik-j) - 项目具有意识
+- [SCP-███-J](https://scp-wiki-cn.wikidot.com/scp-redacted-j) - “███的人”
+- [JJJ-JJJJ-J](https://scp-wiki-cn.wikidot.com/jjj-jjjj-j) - JIt's Ja Joke
+- [SCP-ZZZZ-J](https://scp-wiki-cn.wikidot.com/scp-zzzz-j) - 适合作为一个结尾
+
+# 超可爱宠物(Super Cute Pets) (2014年愚人节恶搞)
+
+- [主页](https://scp-wiki-cn.wikidot.com/april-fools-2014) - 超可爱宠物基金会
+- [SCP-006-CU-EX](https://scp-wiki-cn.wikidot.com/scp-006-cu-ex) - 可愛Cwawies
+- [SCP-682-CU](https://scp-wiki-cn.wikidot.com/scp-682-cu) - 萌萌小蜥蜴
+- [SCP-2600-CU](https://scp-wiki-cn.wikidot.com/scp-2600-cu) - 最可愛的小東西
+
+# 超酷植物(Super Cool Plants) (2020年愚人节恶搞)
+
+- [主页](https://scp-wiki-cn.wikidot.com/april-fools-2020) - 超酷植物基金会
+- [SCP-CC BY-SA 3.0-CO](https://scp-wiki-cn.wikidot.com/scp-cc-by-sa-3-0-co) - CC的怨念
+- [SCP-600-CO](https://scp-wiki-cn.wikidot.com/scp-600-co) - 一位照看我植物的超酷朋友
+
+# 其他搞笑页面
+
+**[故事：](https://scp-wiki-cn.wikidot.com/foundation-tales)**
+
+- [Aprillipäivä](https://scp-wiki-cn.wikidot.com/aprillipaiva)（成人内容）
+- [竞赛竞赛](https://scp-wiki-cn.wikidot.com/contest-contest)
+- [End Of Deaf; or, In the Clutches of Dumb](https://scp-wiki-cn.wikidot.com/end-of-deaf)
+- [钓鱼团队 主页](https://scp-wiki-cn.wikidot.com/fishing-team-main) (April Fools 2022)
+- [Funny Clown Show, Episode 37](https://scp-wiki-cn.wikidot.com/37-clowns)
+- [我，来迟了](https://scp-wiki-cn.wikidot.com/i-am-late)
+- [我，一只在暴风雪中捂着鼻子的北极熊](https://scp-wiki-cn.wikidot.com/i-a-polar-bear-covering-my-nose-in-a-snowstorm)
+- [亚恩 X Bumaro一生推](https://scp-wiki-cn.wikidot.com/ion-x-bumaro-forevurr)（成人内容）
+- [异常玩具鸭目录](https://scp-wiki-cn.wikidot.com/log-of-anomalous-ducks)
+- [非异常物品记录](https://scp-wiki-cn.wikidot.com/log-of-non-anomalous-items)
+- [非异常物品记录II：续作总是更糟糕](https://scp-wiki-cn.wikidot.com/log-of-non-anomalous-items-ii-sequels-are-always-worse)
+- [MZL-1730](https://scp-wiki-cn.wikidot.com/mzl-1730) - Site-19发生了什么？
+- [MZL-1915](https://scp-wiki-cn.wikidot.com/mzl-1915) - **文书工作**的*恐怖*！！！
+- [New Technical Issues](https://scp-wiki-cn.wikidot.com/new-technical-issues)
+- [New Technical Issues Archive](https://scp-wiki-cn.wikidot.com/new-technical-issues-archive)
+- [Reality](https://scp-wiki-cn.wikidot.com/rzeczywistosc)
+- [罗纳德·里根在说唱时被切碎](https://scp-wiki-cn.wikidot.com/ronald-reagan-cut-up-while-rapping)
+- [SCP-3](https://scp-wiki-cn.wikidot.com/scp-3)
+- [SCP-173，但每句话都是条链接](https://scp-wiki-cn.wikidot.com/scp-173-but-every-sentence-is-a-crosslink)
+- [SCP-173，但是……](https://scp-wiki-cn.wikidot.com/scp-173-but)
+- [SCP-173，但是……是合作记录](https://scp-wiki-cn.wikidot.com/scp-173-but-it-s-a-collaborative-log)
+- [SCP-173，但是由Wikidot用户名组成](https://scp-wiki-cn.wikidot.com/scp-173-but-it-s-composed-of-wikidot-usernames)
+- [SCP-1425-765](https://scp-wiki-cn.wikidot.com/scp-1425-765)
+- [SCP网站讨论区模拟器](https://scp-wiki-cn.wikidot.com/scp-wiki-discussion-page-simulator)
+- [Technical Issue Request Page](https://scp-wiki-cn.wikidot.com/techissues)
+- [The Flesh That Raves](https://scp-wiki-cn.wikidot.com/the-flesh-that-raves)
+- [绝逼是官方SCP-6000竞赛！](https://scp-wiki-cn.wikidot.com/scp6969contesthubgottemlmao)
+- [双神之战](https://scp-wiki-cn.wikidot.com/war-of-two-gods)
+- [Zyn说起了「TMD」](https://scp-wiki-cn.wikidot.com/zyn-says-the-f-word)
+
+**[文章：](https://scp-wiki-cn.wikidot.com/essay-hub)**
+
+- [你与老掉牙：一部教育电影](https://scp-wiki-cn.wikidot.com/cliches-and-you-an-educational-film)
+- [Mackenzie博士的作家观念指南](https://scp-wiki-cn.wikidot.com/mackenzie-stereotypes)
+- [Rounderhouse的成为垃圾批评家的极佳官方指南](https://scp-wiki-cn.wikidot.com/rounderhouse-critique-guide)
+- [标准差评守则](https://scp-wiki-cn.wikidot.com/standard-form-for-downvotes)
+- [关于老掉牙的SCP构想的清单](https://scp-wiki-cn.wikidot.com/the-big-list-of-overdone-scp-cliches)
+- [此页面不存在！](https://scp-wiki-cn.wikidot.com/this-page-doesn-t-exist-yet)
+- [你的第一篇SCP！](https://scp-wiki-cn.wikidot.com/your-very-first-scp)
+
+**其他：**
+
+- [传承熊图伟业项目的合集](https://scp-wiki-cn.wikidot.com/bearitage-collection)
+- [SCP-005提案 中心页](https://scp-wiki-cn.wikidot.com/scp-005-hub)
+- [Sigma-9 版式](https://scp-wiki-cn.wikidot.com/theme:sigma)
+- [YOSSISTYLE CSS 版式](https://scp-wiki-cn.wikidot.com/theme:yossistyle)

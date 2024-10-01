@@ -16,6 +16,7 @@
 - [被废除的SCP](https://scp-wiki-cn.wikidot.com/archived:decommissioned-scps) - 这些SCP是如此糟糕以至于我们写下了销毁它们的故事。我们不希望他们变得更多。
 - [被删除的SCP](https://scp-wiki-cn.wikidot.com/scp-removed) - 这些SCP在英文官网上已经被彻底搞掉了，所以你可能无法找到它们的原文，不过基金会网站管理员告诉我们应该保留它们的翻译稿件。
 - [本站转载-被删除的SCP目录页](../old/SCP-removed.md)
+- [本站转载-被废除的SCP目录页](../scp-series/decommissioned-scps.md)
 
 ------
 
