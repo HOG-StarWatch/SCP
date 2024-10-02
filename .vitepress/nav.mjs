@@ -1,5 +1,6 @@
 export default [
   { text: '主页', link: 'https://hog-starwatch.github.io/', target: '_self', },
+  { text: 'SCP主页', link: '/' },
   { text: '背景资料',
     items: [
       { text: '关于SCP基金会', link: '/背景资料/关于SCP基金会.md' },
